@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayant01&label=Profile%20views&color=0e75b6&style=flat" alt="ayant01" /> </p>
 
-- 🌱 I’m currently learning **Android Development and Data Science.**
+- 🌱 I’m currently learning **Backend Development and Data Science.**
 
 - 💬 Ask me about **Python, C++, Kotlin, MySQL**
 
